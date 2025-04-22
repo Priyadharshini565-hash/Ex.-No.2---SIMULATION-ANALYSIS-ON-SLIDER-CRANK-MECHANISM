@@ -39,8 +39,10 @@
 
 
 ## Output
-![Screenshot 2025-04-22 103151](https://github.com/user-attachments/assets/dfd30aa7-c3d3-489d-a00b-52cd5c4e1bd7
-![Screenshot 2025-04-22 103215](https://github.com/user-attachments/assets/1f2917fb-8634-4ecd-9717-22eca0aad5a5)
+![Screenshot 2025-04-22 103215](https://github.com/user-attachments/assets/23c39af9-ee12-4a2b-82f8-6c119fce7711)
+![Screenshot 2025-04-22 103151](https://github.com/user-attachments/assets/88abebf8-dd07-44bb-b5a9-39162020cac1)
+
+
 
 
 
